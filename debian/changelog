@@ -1,0 +1,5 @@
+devpi (0.1-1) unstable; urgency=low
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Alexey <zed@unknown>  Tue, 24 Dec 2013 15:58:40 +0400
