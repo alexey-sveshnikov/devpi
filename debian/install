@@ -1,1 +1,2 @@
 supervisor.d/* etc/supervisor/conf.d/
+implant_module usr/bin
