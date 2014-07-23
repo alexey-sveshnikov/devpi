@@ -44,7 +44,7 @@ case "$1" in
             #pip install --download-cache=$pip_cache -U setuptools
             #pip install --download-cache=$pip_cache -U pip
             #pip install --download-cache=$pip_cache -U distribute
-            pip install --download-cache=$pip_cache -U devpi
+            pip install --download-cache=$pip_cache -U devpi==1.2.2
             touch $ve_dir/finished
         fi
 
